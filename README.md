@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*8tBvCjiZgM8g415xCqwswQ.gif)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nathan</h1>
-<h3 align="center">A passionate entry-level data analyst from Ghana</h3>
+<h2 align="center">A passionate entry-level data analyst from Ghana</h2>
 <img align="right" alt="data analysis" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 
