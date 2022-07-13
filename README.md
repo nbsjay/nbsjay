@@ -39,10 +39,10 @@
     <a href="https://github.com/nbsjay/github-readme-stats" align="left"><img alt="Nathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nbsjay&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
-<!-- <p>
+<p>
     <a href="https://github.com/nbsjay/github-readme-stats"><img alt="Nathan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbsjay&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
-</p> -->
+</p>
 
 <!-- <b>Please Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level. -->
 
