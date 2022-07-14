@@ -47,7 +47,7 @@
     </a>
 </p>
 
-<!-- <b>Please Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level. -->
+<b>Please Note:</b> Top languages is only a metric of the languages my public code consists of and and is not a wholesome indication of my experience or skill level.
 
 <br/>
 
