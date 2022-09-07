@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Tableau, Python, SQL, Microsoft Power BI, and Pandas**
+- 🌱 I am an entry-level data analyst comfortable in using **Tableau, SQL, Microsoft Power BI, and Spreadsheets.** I’m also currently learning python for data analysis
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
-- 📫 How to reach me **nathanbrownsmith@outlook.com**
+- 📫 How to reach me **nathanbrownsmith@gmail.com**
 
 <br/>
 <br/>
