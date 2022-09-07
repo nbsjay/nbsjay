@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I am in environments/tools like **Tableau, SQL, Microsoft Power BI, and Spreadsheets.** I’m also currently learning python for data analysis at datacamp
+- 🌱 I am comfortable in environments/tools like **Tableau, SQL, Microsoft Power BI, and Spreadsheets.** I’m also currently learning python for data analysis at datacamp
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
