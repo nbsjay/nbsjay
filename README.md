@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I am an entry-level data analyst comfortable in using **Tableau, SQL, Microsoft Power BI, and Spreadsheets.** I’m also currently learning python for data analysis
+- 🌱 I am in environments/tools like **Tableau, SQL, Microsoft Power BI, and Spreadsheets.** I’m also currently learning python for data analysis at datacamp
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
